@@ -12,7 +12,8 @@ a **Graph** is a *non-linear* data structure that can be:
 
 Applications of Graph:
 Graphs are more flexible than trees, and can represent real-world systems like:
-networks, maps, social connections, and more.
+networks, maps, social connections, and more
+All social networking using graph structure like linkedin,facebook,twitter,instagram-logistics 
 
 🧠 Note (from sir's lecture):
 "Graph is also a data structure like Tree. Just like Tree is a hierarchical data structure,
